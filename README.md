@@ -27,7 +27,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://shinchatea.com/wp-tmpn/n.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://shinchatea.com/wp-tmpn/n2.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 ## Notes
